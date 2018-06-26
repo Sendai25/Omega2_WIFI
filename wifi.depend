@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512377999 source:c:\users\quin\desktop\wifi\wifiscannerdemo.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+

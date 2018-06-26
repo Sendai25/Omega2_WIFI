@@ -1,0 +1,54 @@
+{
+	"results": [
+		{
+			"channel": "1",
+			"ssid": "Quincy",
+			"bssid": "fe:2b:2a:7e:37:9e",
+			"authentication": "AES",
+			"encryption": "WPA2PSK",
+			"signalStrength": "70",
+			"wirelessMode": "11b\/g\/n",
+			"ext-ch": "NONE"
+		},
+		{
+			"channel": "6",
+			"ssid": "TP-LINK_7640",
+			"bssid": "20:6b:e7:33:76:40",
+			"authentication": "AES",
+			"encryption": "NONE",
+			"signalStrength": "13",
+			"wirelessMode": "11b\/g\/n",
+			"ext-ch": "BELOW"
+		},
+		{
+			"channel": "6",
+			"ssid": "TPGuest_7640",
+			"bssid": "32:6b:e7:33:76:40",
+			"authentication": "AES",
+			"encryption": "WPA1PSKWPA2PSK",
+			"signalStrength": "10",
+			"wirelessMode": "11b\/g\/n",
+			"ext-ch": "BELOW"
+		},
+		{
+			"channel": "6",
+			"ssid": "Fergus_House_Wi-Fi",
+			"bssid": "88:5b:dd:b4:7c:d4",
+			"authentication": "AES",
+			"encryption": "WPA2PSK",
+			"signalStrength": "68",
+			"wirelessMode": "11b\/g\/n",
+			"ext-ch": "NONE"
+		},
+		{
+			"channel": "11",
+			"ssid": "TP-LINK_MH",
+			"bssid": "d4:6e:0e:64:b4:f7",
+			"authentication": "AES",
+			"encryption": "WPA1PSKWPA2PSK",
+			"signalStrength": "5",
+			"wirelessMode": "11b\/g\/n",
+			"ext-ch": "NONE"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+Warning: Cannot retrieve gps information.
+
+Wifi #1:
+Name: Quincy
+Channel: 1
+Encryption: WPA2PSK
+SignalStrength: 70
+
+Wifi #2:
+Name: Fergus_House_Wi-Fi
+Channel: 6
+Encryption: WPA2PSK
+SignalStrength: 68
+
+Wifi #3 (Public):
+Name: TP-LINK_7640
+Channel: 6
+Encryption: NONE
+SignalStrength: 13
+
+Wifi #4:
+Name: TPGuest_7640
+Channel: 6
+Encryption: WPA1PSKWPA2PSK
+SignalStrength: 10
+
+Wifi #5:
+Name: TP-LINK_MH
+Channel: 11
+Encryption: WPA1PSKWPA2PSK
+SignalStrength: 5
+
