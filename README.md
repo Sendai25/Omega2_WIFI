@@ -1,5 +1,5 @@
 # Omega2_WIFI
-Data collecting and analysis project to be cross-compiled to Omega2 Linux embeded board. The onboard program extracts raw wifi data in "info.json" and keeps sorting the known signals while records their strongest position in ".csv" and ".txt" files.
+Data collecting and analysis project to be cross-compiled to Omega2 Linux embedded board. The onboard program extracts raw wifi data in "info.json" and keeps sorting the known signals while records their strongest position in ".csv" and ".txt" files.
 
 ### Build and Output Index
 "Wifiscannerdemo.exe" - Cross-compiled Omega2 executable  
